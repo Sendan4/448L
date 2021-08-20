@@ -2,11 +2,13 @@
 Aun soy un Novato en esto.
 
 Mas o menos lo que se.
-* <img src = "icons8-html-5-96.png" width = "30px" height = "auto" align = "left">  **HTML** - mediano
-* <img src = "icons8-css3-96.png" width = "30px" height = "auto" align = "left">  **CSS** - mediano
-* <img src = "icons8-javascript-96.png" width = "30px" height = "auto" align = "left">  **JavaScript** - aun muy verde 🙃
-* <img src = "icons8-c++-96.png" width = "30px" height = "auto" align = "left"> Lo estoy aprendiendo aun.
+<img src = "icons8-html-5-96.png" width = "30px" height = "auto" align = "left">  **HTML** - mediano
 
+<img src = "icons8-css3-96.png" width = "30px" height = "auto" align = "left">  **CSS** - mediano
+
+<img src = "icons8-javascript-96.png" width = "30px" height = "auto" align = "left">  **JavaScript** - aun muy verde 🙃
+
+<img src = "icons8-c++-96.png" width = "30px" height = "auto" align = "left"> Lo estoy aprendiendo aun.
 
 Haxe se ve interesante tambien
 
