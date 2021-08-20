@@ -6,7 +6,7 @@ Mas o menos lo que se.
 - <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-html-5-96.png" width = "30px" height = "auto" align = "left"></a>  **HTML** - mediano
 - <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-css3-96.png" width = "30px" height = "auto" align = "left"></a>  **CSS** - mediano
 - <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-javascript-96.png" width = "30px" height = "auto" align = "left"></a>  **JavaScript** - aun muy verde 🙃
-- <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-c++-96.png" width = "30px" height = "auto" align = "left"></a> Lo estoy aprendiendo aun.
+- <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-c++-96.png" width = "30px" height = "auto"></a> Lo estoy aprendiendo aun.
 
 Haxe se ve interesante tambien
 
