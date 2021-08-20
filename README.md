@@ -1,4 +1,4 @@
-<h3>Estoy aqui y haya haciendo cosas en mi tiempo libre.</h3>
+<h3>Estoy aqui y alla haciendo cosas en mi tiempo libre.</h3>
 Aun soy un Novato en esto.
 
 Mas o menos lo que se.
