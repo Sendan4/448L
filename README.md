@@ -7,6 +7,7 @@ Mas o menos lo que se.
 * <img src = "icons8-javascript-96.png" width = "30px" height = "auto" align = "left">  **JavaScript** - aun muy verde 🙃
 * <img src = "icons8-c++-96.png" width = "30px" height = "auto" align = "left"> Lo estoy aprendiendo aun.
 
+
 Haxe se ve interesante tambien
 
 <a href = "https://github.com/Microsoft/vscode"><img src = "icons8-visual-studio-code-2019-96.png" width = "20px" height = "auto" aling = "right"></a> 👈 Este es mi editor de codigo favorito
