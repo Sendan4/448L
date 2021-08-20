@@ -2,6 +2,7 @@
 Aun soy un Novato en esto.
 
 Mas o menos lo que se.
+
 <img src = "icons8-html-5-96.png" width = "30px" height = "auto" align = "left">  **HTML** - mediano
 
 <img src = "icons8-css3-96.png" width = "30px" height = "auto" align = "left">  **CSS** - mediano
