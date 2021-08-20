@@ -4,9 +4,9 @@ Aun soy un Novato en esto.
 Mas o menos lo que se.
 
 - <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-html-5-96.png" width = "20px" height = "auto"></a>  HTML - mediano
-- <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-css3-96.png" width = "20px" height = "auto"></a>  CSS - mediano
+- <a href = "https://github.com/448L/448L/blob/main/tails%20tenedor.webm?raw=true"><img src = "icons8-css3-96.png" width = "20px" height = "auto"></a>  CSS - mediano
 - <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-javascript-96.png" width = "20px" height = "auto"></a>  JavaScript - aun muy verde 🙃
-- <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-c++-96.png" width = "20px" height = "auto"></a> C++ Lo estoy aprendiendo aun.
+- <a href = "https://github.com/448L/448L/blob/main/MUERE-1-1.mp4?raw=true"><img src = "icons8-c++-96.png" width = "20px" height = "auto"></a> C++ Lo estoy aprendiendo aun.
 
 
 Haxe se ve interesante tambien
