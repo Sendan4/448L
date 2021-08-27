@@ -16,3 +16,4 @@ Haxe se ve interesante tambien
 
 <a href= "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "ac148350-6bb2-4595-9ff6-f5b127a539d9.gif" align = "left"></a>
 <!-- A estas alturas no es necesario decir que me gusta Riolu/Lucario -->
+<!-- No se vale ver los enlaces, arruinaras la sorpresa -->
