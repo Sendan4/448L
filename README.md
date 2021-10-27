@@ -9,7 +9,7 @@ Aun soy un Novato en esto.
 <a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-javascript-96.png" width = "5%" height = "auto"></a>
 <a href = "https://github.com/448L/448L/blob/main/MUERE-1-1.mp4?raw=true"><img src = "icons8-c++-96.png" width = "5%" height = "auto"></a>
 
-**Herramientas**
+**Herramientas y Otros**
 
 <!-- Riolu -->
 <a href= "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png">
