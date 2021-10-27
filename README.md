@@ -1,13 +1,13 @@
-<p><img src="https://komarev.com/ghpvc/?username=448l&label=Profile%20views&color=0e75b6&style=flat" alt="448l"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=448l&label=Perfil%20Visitas&color=2093d9&style=flat-square" alt="448l" /> </p>
 <h3>Estoy aqui y alla haciendo cosas en mi tiempo libre.</h3>
 
 Aun soy un Novato en esto.
 
 **Lenguajes**
 
-<a href = "https://github.com/448L/448L/blob/main/BOYFRIEND%20LLAMA%20UNA%20PIZZERIA.webm?raw=true"><img src = "icons8-html-5-96.png" width = "5%" height = "auto"></a>
+<a href = "https://github.com/448L/448L/blob/main/No%20puedes%20escapar%20de%20Cynthia.webm?raw=true"><img src = "icons8-html-5-96.png" width = "5%" height = "auto"></a>
 <a href = "https://github.com/448L/448L/blob/main/tails%20tenedor.webm?raw=true"><img src = "icons8-css3-96.png" width = "5%" height = "auto"></a>
-<a href = "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png"><img src = "icons8-javascript-96.png" width = "5%" height = "auto"></a>
+<a href = "https://github.com/448L/448L/blob/main/fgfrhcfevawq.webm?raw=true"><img src = "icons8-javascript-96.png" width = "5%" height = "auto"></a>
 <a href = "https://github.com/448L/448L/blob/main/MUERE-1-1.mp4?raw=true"><img src = "icons8-c++-96.png" width = "5%" height = "auto"></a>
 
 **Herramientas y Otros**
