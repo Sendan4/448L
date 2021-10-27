@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=448l&label=Perfil%20Visitas&color=2093d9&style=flat-square" alt="448l" /> </p>
 <h3>Estoy aqui y alla haciendo cosas en mi tiempo libre.</h3>
 
 Aun soy un Novato en esto.
