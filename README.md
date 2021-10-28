@@ -8,6 +8,7 @@ Aun soy un Novato en esto.
 <a href = "https://github.com/448L/448L/blob/main/tails%20tenedor.webm?raw=true"><img src = "icons8-css3-96.png" width = "50" height = "auto"></a>
 <a href = "https://github.com/448L/448L/blob/main/fgfrhcfevawq.webm?raw=true"><img src = "icons8-javascript-96.png" width = "50" height = "auto"></a>
 <a href = "https://github.com/448L/448L/blob/main/MUERE-1-1.mp4?raw=true"><img src = "icons8-c++-96.png" width = "50" height = "auto"></a>
+<a href = "https://github.com/448L/448L/blob/main/TF2%20INGENIERO.webm?raw=true"><img src = "csharp-original.svg" width = "49" height = "auto"></a>
 
 **Herramientas y Otros**
 
