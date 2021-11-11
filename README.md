@@ -33,7 +33,7 @@
 <div>
   <p>&nbsp;<img align = "left" src="https://github-readme-stats.vercel.app/api?username=448L&show_icons=true&locale=es&theme=react&hide_border=true" alt="448L"/></p>
   
-  <p><img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" /></p>
+  <p><img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" /></p>
 </div>
 
 <!-- A estas alturas no es necesario decir que me gusta Riolu/Lucario -->
