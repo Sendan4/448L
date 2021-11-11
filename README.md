@@ -33,7 +33,7 @@ int main () {
 <hr>
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=448L&show_icons=true&locale=es&theme=react&hide_border=true" alt="448L" width = "100%" height = "150"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "120"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "130"/></p>
 
 <!-- A estas alturas no es necesario decir que me gusta Riolu/Lucario -->
 <!-- No se vale ver los enlaces en el repositorio, arruinaras la sorpresa -->
