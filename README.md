@@ -13,11 +13,10 @@ int main () {
 <!-- Riolu -->
 <a href= "https://raw.githubusercontent.com/448L/448L/main/E4kbCZdVEAIjwkB.png">
   <img src = "ac148350-6bb2-4595-9ff6-f5b127a539d9.gif" width = "120" height = "auto" align = "right"/>
-  <br>
 </a>
 
 <!--Grupo de Lenguajes y herramientas-->
-<div align = "center">
+<div align = "left">
   <b>Lenguajes y herramientas</b>
   
   <a href = "https://github.com/448L/448L/blob/main/No%20puedes%20escapar%20de%20Cynthia.webm?raw=true"><img src = "icons8-html-5-96.png" width = "50" height = "auto"></a>
