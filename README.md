@@ -28,16 +28,11 @@ int main () {
   <a href = "https://github.com/Microsoft/vscode"><img src = "icons8-visual-studio-code-2019-96.png" width = "50" height = "auto"></a>
   <!--<a href = "https://github.com/448L/448L/blob/main/TF2%20INGENIERO.webm?raw=true"><img src = "csharp-original.svg" width = "49" height = "auto"></a>-->
 </div>
-
-
-
 <hr>
 
-<div>
-  <p>&nbsp;<img align = "right" src="https://github-readme-stats.vercel.app/api?username=448L&show_icons=true&locale=es&theme=react&hide_border=true" alt="448L"/></p>
-  
-  <p><img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" /></p>
-</div>
+ <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=448L&show_icons=true&locale=es&theme=react&hide_border=true" alt="448L" width = "100%" height = "150"/></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "150"/></p>
+
 
 
 <!-- A estas alturas no es necesario decir que me gusta Riolu/Lucario -->
