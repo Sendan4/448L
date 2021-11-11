@@ -1,6 +1,13 @@
 <h3 align = "center">Estoy aqui y alla haciendo cosas en mi tiempo libre.</h3>
 
-<p align = "center">Aun soy muy Novato en esto.</p>
+```cpp
+#include <iostream>
+
+int main () {
+   std::cout << "Hola aun soy muy novato en esto" << endl;
+   return 0;
+}
+```
 
 <!--Grupo de Lenguajes-->
 <div align = "center">
@@ -31,9 +38,9 @@
 <hr>
 
 <div>
-  <p>&nbsp;<img align = "left" src="https://github-readme-stats.vercel.app/api?username=448L&show_icons=true&locale=es&theme=react&hide_border=true" alt="448L"/></p>
+  <p>&nbsp;<img align = "right" src="https://github-readme-stats.vercel.app/api?username=448L&show_icons=true&locale=es&theme=react&hide_border=true" alt="448L"/></p>
   
-  <p><img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" /></p>
+  <p><img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" /></p>
 </div>
 
 <!-- A estas alturas no es necesario decir que me gusta Riolu/Lucario -->
