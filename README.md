@@ -1,12 +1,9 @@
-<div align = "center">
-   <h3>Estoy aqui y alla haciendo cosas en mi tiempo libre</h3>
-</div>
-
 ```cpp
 #include <iostream>
 
 int main () {
    std::cout << "Hola aun soy muy novato en esto" << endl;
+   std::cout << "Estoy aqui y alla haciendo cosas en mi tiempo libre" << endl;
    return 0;
 }
 ```
