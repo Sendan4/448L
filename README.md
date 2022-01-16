@@ -1,7 +1,7 @@
 ```cpp
 #include <iostream>
 
-int main () {
+int main() {
    std::cout << "Hola aun soy muy novato en esto" << endl;
    std::cout << "Estoy aqui y alla haciendo cosas en mi tiempo libre" << endl;
    return 0;
