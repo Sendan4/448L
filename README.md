@@ -2,9 +2,9 @@
 #include <iostream>
 
 int main() {
-   std::cout << "Hola aun soy muy novato en esto" << std::endl;
-   std::cout << "Estoy aqui y alla haciendo cosas en mi tiempo libre" << std::endl;
-   return 0;
+       std::cout << "Hola aun soy muy novato en esto" << std::endl;
+       std::cout << "Estoy aqui y alla haciendo cosas en mi tiempo libre" << std::endl;
+       return 0;
 }
 ```
 <!-- Riolu -->
