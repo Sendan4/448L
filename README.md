@@ -18,7 +18,6 @@ int main() {
   
   <a href = "https://github.com/448L/448L/blob/main/No%20puedes%20escapar%20de%20Cynthia.webm?raw=true"><img src = "icons8-html-5-96.png" width = "50" height = "auto"></a>
   <a href = "https://github.com/448L/448L/blob/main/tails%20tenedor.webm?raw=true"><img src = "icons8-css3-96.png" width = "50" height = "auto"></a>
-  <a href = "https://github.com/448L/448L/blob/main/fgfrhcfevawq.webm?raw=true"><img src = "icons8-javascript-96.png" width = "50" height = "auto"></a>
   <a href = "https://github.com/448L/448L/blob/main/MUERE-1-1.mp4?raw=true"><img src = "icons8-c++-96.png" width = "50" height = "auto"></a>
   <a href = "https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="auto"/></a>
   <a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="50" height="auto"/></a>
