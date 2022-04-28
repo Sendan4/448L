@@ -2,9 +2,9 @@
 #include <iostream>
 
 int main() {
-       std::cout << "Hola aun soy muy novato en esto" << std::endl;
-       std::cout << "Estoy aqui y alla haciendo cosas en mi tiempo libre" << std::endl;
-       return 0;
+    std::cout << "Hola aun soy muy novato en esto" << std::endl;
+    std::cout << "Estoy aqui y alla haciendo cosas en mi tiempo libre" << std::endl;
+    return 0;
 }
 ```
 <!-- Riolu -->
@@ -29,5 +29,4 @@ int main() {
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "130"/></p>
 
-<!-- A estas alturas no es necesario decir que me gusta Riolu/Lucario -->
 <!-- No se vale ver los enlaces en el repositorio, arruinaras la sorpresa -->
