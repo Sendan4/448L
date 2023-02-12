@@ -14,7 +14,6 @@ int main() {
 
 <!--Grupo de Lenguajes y herramientas-->
 <div align = "left">
-  <b>Lenguajes y herramientas</b>
   
   <a href = "https://github.com/448L/448L/blob/main/No%20puedes%20escapar%20de%20Cynthia.webm?raw=true"><img src = "icons8-html-5-96.png" width = "50" height = "auto"></a>
   <a href = "https://github.com/448L/448L/blob/main/tails%20tenedor.webm?raw=true"><img src = "icons8-css3-96.png" width = "50" height = "auto"></a>
