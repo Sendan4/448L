@@ -1,7 +1,7 @@
 ```cpp
 #include <iostream>
 
-int main() {
+int main(void) {
     std::cout << "Hola aun soy muy novato en esto" << std::endl;
     std::cout << "Estoy aqui y alla haciendo cosas en mi tiempo libre" << std::endl;
     return 0;
@@ -20,8 +20,6 @@ int main() {
   <a href = "https://github.com/448L/448L/blob/main/MUERE-1-1.mp4?raw=true"><img src = "icons8-c++-96.png" width = "50" height = "auto"></a>
   <a href = "https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="auto"/></a>
   <a href = "https://github.com/Microsoft/vscode"><img src = "icons8-visual-studio-code-2019-96.png" width = "50" height = "auto"></a>
-  <a href = "TF2 INGENIERO.webm?raw=true"><img src = "git-scm-icon.svg" width = "50" height = "auto"/></a>
-  <!--<a href = "https://github.com/448L/448L/blob/main/TF2%20INGENIERO.webm?raw=true"><img src = "csharp-original.svg" width = "49" height = "auto"></a>-->
 </div>
 <hr>
 
