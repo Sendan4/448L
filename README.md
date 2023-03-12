@@ -15,10 +15,10 @@ int main(void) {
 <!--Grupo de Lenguajes y herramientas-->
 <div align = "left">
   
-  <a href = "https://github.com/448L/448L/blob/main/No%20puedes%20escapar%20de%20Cynthia.webm?raw=true"><img src = "icons8-html-5-96.png" width = "50" height = "auto"></a>
-  <a href = "https://github.com/448L/448L/blob/main/tails%20tenedor.webm?raw=true"><img src = "icons8-css3-96.png" width = "50" height = "auto"></a>
-  <a href = "https://github.com/448L/448L/blob/main/MUERE-1-1.mp4?raw=true"><img src = "icons8-c++-96.png" width = "50" height = "auto"></a>
-  <a href = "https://www.debian.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="auto"/></a>
+  <a href = "PIRØ - @ConejoConAstas [1613309894853107713].mp4"><img src = "html5.avif" width = "50" height = "auto"></a>
+  <a href = "790063089177067570.gif"><img src = "css3.avif" width = "50" height = "auto"></a>
+  <a href = "C be like.mp4"><img src = "c++.avif" width = "50" height = "auto"></a>
+  <a href = "https://spins.fedoraproject.org/kde/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="auto"/></a>
   <a href = "https://github.com/Microsoft/vscode"><img src = "icons8-visual-studio-code-2019-96.png" width = "50" height = "auto"></a>
 </div>
 <hr>
