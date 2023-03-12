@@ -17,7 +17,7 @@ int main(void) {
   <a href = ""><img src = "html5.avif" width = "50" height = "auto"></a>
   <a href = ""><img src = "css3.avif" width = "50" height = "auto"></a>
   <a href = "C be like.mp4"><img src = "c++.avif" width = "50" height = "auto"></a>
-  <a href = "https://spins.fedoraproject.org/kde/"><img src="linux-original.svg" alt="linux" width="50" height="auto"/></a>
+  <a href = "https://spins.fedoraproject.org/kde/"><img src="tux.avif" alt="linux" width="50" height="auto"/></a>
   <a href = "https://github.com/neovim/neovim"><img src = "nvim.avif" width = "50" height = "auto"></a>
 </div>
 <hr>
