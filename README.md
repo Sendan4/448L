@@ -14,15 +14,16 @@ int main(void) {
 
 <!--Grupo de Lenguajes y herramientas-->
 <div align = "left">
-  
   <a href = ""><img src = "html5.avif" width = "50" height = "auto"></a>
   <a href = ""><img src = "css3.avif" width = "50" height = "auto"></a>
   <a href = "C be like.mp4"><img src = "c++.avif" width = "50" height = "auto"></a>
   <a href = "https://spins.fedoraproject.org/kde/"><img src="linux-original.svg" alt="linux" width="50" height="auto"/></a>
-  <a href = "https://github.com/Microsoft/vscode"><img src = "icons8-visual-studio-code-2019-96.png" width = "50" height = "auto"></a>
+  <a href = "https://github.com/neovim/neovim"><img src = "nvim.avif" width = "50" height = "auto"></a>
 </div>
 <hr>
 
+<a href = "an.mp4">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "130"/></p>
+</a>
 
 <!-- No se vale ver los enlaces en el repositorio, arruinaras la sorpresa -->
