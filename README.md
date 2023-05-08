@@ -23,7 +23,7 @@ int main(void) {
 <hr>
 
 <a href = "https://raw.githubusercontent.com/Sendan4/Sendan4/main/Kapi%20bruh.avif">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "130"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sendan4&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "130"/></p>
 </a>
 
 <!-- No se vale ver los enlaces en el repositorio, arruinaras la sorpresa -->
