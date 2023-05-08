@@ -16,13 +16,13 @@ int main(void) {
 <div align = "left">
   <a href = ""><img src = "html5.avif" width = "50" height = "auto"></a>
   <a href = ""><img src = "css3.avif" width = "50" height = "auto"></a>
-  <a href = "https://github.com/448L/448L/blob/main/alp.webm?raw=true"><img src = "c++.avif" width = "50" height = "auto"></a>
+  <a href = "https://github.com/Sendan4/448L/blob/main/alp.webm?raw=true"><img src = "c++.avif" width = "50" height = "auto"></a>
   <a href = "https://spins.fedoraproject.org/kde/"><img src="tux.avif" alt="linux" width="45" height="auto"/></a>
   <a href = "https://github.com/neovim/neovim"><img src = "nvim.avif" width = "40" height = "auto"></a>
 </div>
 <hr>
 
-<a href = "https://raw.githubusercontent.com/448L/448L/main/Kapi%20bruh.avif">
+<a href = "https://raw.githubusercontent.com/Sendan4/Sendan4/main/Kapi%20bruh.avif">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=448l&show_icons=true&theme=react&hide_border=true&locale=es&layout=compact" alt="448l" width="100%" height = "130"/></p>
 </a>
 
