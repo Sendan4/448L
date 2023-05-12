@@ -15,17 +15,16 @@ int main(void) {
 
 <!--Grupo de Lenguajes y herramientas-->
 ### 🛠️ Lenguajes y Herramientas 😺 :
-<div align = "left">
-  <a href = ""><img src = "html5.avif" width = "50" height = "auto"></a>
-  <a href = ""><img src = "css3.avif" width = "50" height = "auto"></a>
-  <a href = "https://github.com/Sendan4/448L/blob/main/alp.webm?raw=true"><img src = "c++.avif" width = "50" height = "auto"></a>
-  <!-- <a href = "https://spins.fedoraproject.org/kde/"><img src="tux.avif" alt="linux" width="45" height="auto"/></a> -->
-  <a href = "https://github.com/neovim/neovim"><img src = "nvim.avif" width = "40" height = "auto"></a>
-</div>
+| <a href = ""><img src = "html5.avif" width = "60" height = "auto"></a> | <a href = ""><img src = "css3.avif" width = "60" height = "auto"></a> | <a href = "https://github.com/Sendan4/448L/blob/main/alp.webm?raw=true"><img src = "c++.avif" width = "60" height = "auto"></a> | <a href = "https://github.com/neovim/neovim"><img src = "nvim.avif" width = "42" height = "auto"></a> |
+| ----------- | ----------- | ----------- | ----------- |
+
+<!--| <a href = ""><img src = "rustacean-flat-happy.svg" width = "95" height = "auto"></a> -->
+<!-- Aregare Rust en cuanto empieze a aprenderlo -->
+
 <hr>
 
 <a href = "https://raw.githubusercontent.com/Sendan4/Sendan4/main/Kapi%20bruh.avif">
-<p><img src="https://readme-stats.delivery-klad.vercel.app/api/top-langs?username=Sendan4&show_icons=true&theme=dark&hide_border=true&locale=es&layout=compact" alt="Sendan4" width="100%" height = "130"/></p>
+<p><img src="https://readme-stats.delivery-klad.vercel.app/api/top-langs?username=Sendan4&show_icons=true&theme=dark&hide_border=true&locale=es&layout=compact" alt="Sendan4" width="100%" height = "120"/></p>
 </a>
 
 <!-- No se vale ver los enlaces en el repositorio, arruinaras la sorpresa -->
