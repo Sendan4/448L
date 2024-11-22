@@ -10,8 +10,8 @@ int main(void) {
 
 <!--Grupo de Lenguajes y herramientas-->
 ### 🛠️ Lenguajes y Herramientas 😺 :
-| <a href = ""><img src = "html5.avif" width = "40" height = "auto"></a> | <a href = ""><img src = "css3.avif" width = "40" height = "auto"></a> | <a href = "https://github.com/Sendan4/448L/blob/main/alp.webm?raw=true"><img src = "c++.avif" width = "40" height = "auto"></a> | <a href = "https://github.com/neovim/neovim"><img src = "nvim.avif" width = "22" height = "auto"></a> |
-| ----------- | ----------- | ----------- | ----------- |
+| <a href = ""><img src = "css3.avif" width = "40" height = "auto"></a> | <a href = "https://github.com/Sendan4/448L/blob/main/alp.webm?raw=true"><img src = "c++.avif" width = "40" height = "auto"></a> |
+| ----------- | ----------- |
 
 <!--| <a href = ""><img src = "rustacean-flat-happy.svg" width = "95" height = "auto"></a> -->
 <!-- Aregare Rust en cuanto empieze a aprenderlo -->
